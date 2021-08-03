@@ -1,6 +1,5 @@
 # This is a Python implementation of Euclid's algorithm for GCD
 # Practice for lecture 1 of COMP90038
-# test
 
 def euclid_gcd(m, n: int):
     """Returns the greatest common divisor between inputs m, n"""
